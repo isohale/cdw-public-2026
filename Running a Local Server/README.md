@@ -13,15 +13,13 @@ When working with HTML files that include JavaScript that loads external files (
 
 ### VS Code
 
-In this class, we will be working with VS Code, which contains a free extension to run a local server.
+In this class, we will be working with VS Code, which contains a free extension to run a local server. Cursor offers the same extension. 
 
-![chrome_CmPq21Uhlj](https://github.com/user-attachments/assets/bcdcfd61-9d26-4b7b-aa30-aa9b50e6ad83)
 
 ### Proposed Method: Live Server in VS Code
 
 The Live Server extension is a popular and easy-to-use solution for running a local development server directly from VS Code.
 
-![Code_s4vO2i537W](https://github.com/user-attachments/assets/e4f73b84-7685-4b9e-ae9f-ec3455ada794)
 
 #### Step 1: Install the Live Server Extension
 
@@ -35,7 +33,6 @@ The Live Server extension is a popular and easy-to-use solution for running a lo
    - Click the "Install" button
    - Wait for the installation to complete
 
-![Code_YNl5H3Z6CD](https://github.com/user-attachments/assets/8f79253c-d9cf-4427-ba63-1daa23a35ac5)
 
 #### Step 2: Using Live Server
 
@@ -50,7 +47,6 @@ Once installed, you can start a local server in several ways:
 1. Open your project folder in VS Code
 2. Click "Go Live" in the bottom status bar of VS Code
 
-![Code_PMtmEKP3w4](https://github.com/user-attachments/assets/83d5c2d5-9b60-485e-a30d-93e94a1f4e0b)
 
 #### Step 3: What Happens Next
 
@@ -59,7 +55,6 @@ Once installed, you can start a local server in several ways:
 - Any changes you make to your files will automatically reload in the browser
 - The server will continue running until you stop it
 
-![Code_UxHujb9ksw](https://github.com/user-attachments/assets/2586fe1d-35be-4c9a-92f5-db3d38db7b40)
 
 #### Step 4: Stopping the Server
 
